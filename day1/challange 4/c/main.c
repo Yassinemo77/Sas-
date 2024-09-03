@@ -18,10 +18,12 @@ int main()
     }
 
      printf("La somme des %d premiers nombres naturels est %d.\n", n, somme);
-
-
-
-
-
     return 0;
 }
+
+
+
+
+
+
+
