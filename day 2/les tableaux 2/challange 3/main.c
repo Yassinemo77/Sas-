@@ -8,7 +8,7 @@ int main()
     printf("entrer un nombre : ");
     scanf("%d",&n);
 
-    int T[n];
+    int T[n]; 
 
     for(i = 0 ; i < n ; i++){
         printf("entrer les elements de tableaux t[%d] = ", i + 1);
