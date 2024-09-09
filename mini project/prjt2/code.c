@@ -33,6 +33,7 @@ char search[100];
         }
     }
 }
+
  void add(){
     printf("entrer le nom de contact : ");
     scanf("%s",&contact[indexContact].nom);
